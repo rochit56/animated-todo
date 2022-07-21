@@ -2,6 +2,8 @@
 
 A simple TODO App in React Native
 
+![Home](doc/home01.jpg?raw=true "Home")
+
 ## Project structure
 
 ```
