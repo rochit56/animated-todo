@@ -4,9 +4,10 @@ A simple TODO App in React Native
 
 ![Home](doc/home01.jpg?raw=true "Home")
 
-
+<!---
 View this Project on     
 [<img src='doc/behance-logo.png' width=150 alt='logo'/>](https://www.behance.net/rxchit)
+-->
 
 ## Project structure
 
